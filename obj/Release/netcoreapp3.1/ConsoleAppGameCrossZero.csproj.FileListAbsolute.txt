@@ -1,0 +1,13 @@
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\bin\Release\netcoreapp3.1\ConsoleAppGameCrossZero.exe
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\bin\Release\netcoreapp3.1\ConsoleAppGameCrossZero.deps.json
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\bin\Release\netcoreapp3.1\ConsoleAppGameCrossZero.runtimeconfig.json
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\bin\Release\netcoreapp3.1\ConsoleAppGameCrossZero.runtimeconfig.dev.json
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\bin\Release\netcoreapp3.1\ConsoleAppGameCrossZero.dll
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\bin\Release\netcoreapp3.1\ConsoleAppGameCrossZero.pdb
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\obj\Release\netcoreapp3.1\ConsoleAppGameCrossZero.AssemblyInfoInputs.cache
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\obj\Release\netcoreapp3.1\ConsoleAppGameCrossZero.AssemblyInfo.cs
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\obj\Release\netcoreapp3.1\ConsoleAppGameCrossZero.csproj.CoreCompileInputs.cache
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\obj\Release\netcoreapp3.1\ConsoleAppGameCrossZero.dll
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\obj\Release\netcoreapp3.1\ConsoleAppGameCrossZero.pdb
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\obj\Release\netcoreapp3.1\ConsoleAppGameCrossZero.genruntimeconfig.cache
+C:\Users\Nazarov\source\repos\ConsoleAppGameCrossZero\obj\Release\netcoreapp3.1\ConsoleAppGameCrossZero.csprojAssemblyReference.cache
