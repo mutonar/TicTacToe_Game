@@ -206,7 +206,7 @@ namespace ConsoleAppGameCrossZero
                             }
                             else
                             {
-                                for (int i = 0; i < field.GetLength(0); i++) // если максимальное приемлемое не нашли ставим первое попавшее столбце(а надо из центра)
+                                for (int i = 0; i < field.GetLength(0) - field.GetLength(0) / 2; i++) // если максимальное приемлемое не нашли ставим первое попавшее столбце(а надо из центра)
                                 {
                                     // из центра сделал нужно в отдельный метод для диагностики каждого пункта.
                                     if (field.GetLength(0) % 2 == 0) // четная длинна массива
@@ -219,7 +219,7 @@ namespace ConsoleAppGameCrossZero
                                         }
                                         else
                                         {
-                                            count = field.GetLength(1) / 2 - i;
+                                            count = field.GetLength(0) / 2 - i;
                                             if (field[count, prioriteteColumn] == clearCell)
                                             {
                                                 whereStep[0] = prioriteteColumn;
@@ -229,7 +229,8 @@ namespace ConsoleAppGameCrossZero
                                         
                                     }
                                     else { // не четное
-                                        int count = field.GetLength(1) / 2 + i;
+                                        int test = field.GetLength(0) / 2;
+                                        int count = field.GetLength(0) / 2 + i;
                                         if (field[count, prioriteteColumn] == clearCell)
                                         {
                                             whereStep[0] = prioriteteColumn;
@@ -237,7 +238,7 @@ namespace ConsoleAppGameCrossZero
                                         }
                                         else
                                         {
-                                            count = field.GetLength(1) / 2 - i;
+                                            count = field.GetLength(0) / 2 - i;
                                             if (field[count, prioriteteColumn] == clearCell)
                                             {
                                                 whereStep[0] = prioriteteColumn;
